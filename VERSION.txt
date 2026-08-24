@@ -1,0 +1,3 @@
+SCA Monte Carlo + AI Cost Risk Platform
+Version 10.0-RC10.0-ServerState-Preview
+Persistent assessment UUID + workbook fingerprint + Human-setting revisions + canonical workflow state

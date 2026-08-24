@@ -1,0 +1,14 @@
+.venv/
+.sca_env/
+__pycache__/
+*.pyc
+*.pyo
+*.sqlite3
+*.db
+projects/
+data/workbooks/
+setup.log
+launcher.log
+.env
+*.xlsx
+*.xlsm
